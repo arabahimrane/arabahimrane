@@ -1,2 +1,0 @@
-# arabahimrane
-programmeur en C 
